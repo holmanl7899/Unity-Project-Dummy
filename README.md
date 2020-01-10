@@ -1,2 +1,2 @@
 # Unity-Public
-Repositorio para proyectos públicos de Unity
+Proyecto Dummy de Unity para cualquier plataforma
